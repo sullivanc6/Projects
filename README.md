@@ -1,2 +1,2 @@
-# Projects
-A repository for sample work done in classes or in my free time
+# html_parsing
+A rough Ruby script for parsing through an HTML file.
