@@ -1,2 +1,2 @@
-# Projects
-A repository for sample work done in classes or in my free time
+# Password_Creation
+A script that creates and encrypts passwords for multiple user accounts
