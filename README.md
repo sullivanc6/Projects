@@ -1,2 +1,2 @@
-# Projects
-A repository for sample work done in classes or in my free time
+# Introspection
+A Ruby script that tests how different objects repond to various methods.
