@@ -1,2 +1,2 @@
-# Projects
-A repository for sample work done in classes or in my free time
+# File_Stats
+A Ruby script that parses files to return their statistics.
